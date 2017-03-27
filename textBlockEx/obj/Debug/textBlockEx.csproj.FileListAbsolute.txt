@@ -1,0 +1,14 @@
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\bin\Debug\textBlockEx.exe.config
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\textBlockEx.csprojResolveAssemblyReference.cache
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\MainWindow.g.cs
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\App.g.cs
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\textBlockEx_MarkupCompile.cache
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\textBlockEx_MarkupCompile.lref
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\bin\Debug\textBlockEx.exe
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\bin\Debug\textBlockEx.pdb
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\MainWindow.baml
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\textBlockEx.g.resources
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\textBlockEx.Properties.Resources.resources
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\textBlockEx.csproj.GenerateResource.Cache
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\textBlockEx.exe
+\\vdi-ist-fs01\uemprofiles$\pepke101\documents\visual studio 2015\Projects\textBlockEx\textBlockEx\obj\Debug\textBlockEx.pdb
